@@ -15,4 +15,4 @@ Rails.application.initialize!
 #  :password => ENV['SENDGRID_PASSWORD'],
 #  :domain => 'heroku.com',
 #  :enable_startstls_auto => true
-}
+#}
